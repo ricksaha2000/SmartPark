@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 4. manage.py migrate
 
-   5.manage.py runserver
+  5.manage.py runserver
 
 6. You are good to go and use the application!
 
