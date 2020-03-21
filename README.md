@@ -19,5 +19,5 @@ pip install -r requirements.txt
 5.manage.py runserver
 
 
-6. You are goof to go and use the application!
+6. You are good to go and use the application!
 
